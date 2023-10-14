@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tuan</h1>
 <h3 align="center">A passionate data scientist from Vietnam</h3>
-<img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 - 🔭 I’m currently studying in **Ho Chi Minh University of Banking (HUB)**
 
