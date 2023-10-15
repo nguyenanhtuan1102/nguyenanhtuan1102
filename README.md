@@ -2,6 +2,8 @@
 <h4 align="center">A passionate data scientist from Vietnam</h4>
 <img align="right" alt="Coding" width="375" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
+<h3 align="left">Introduce and contact: </h3>
+
 - 🎓 I’m currently studying in **Ho Chi Minh University of Banking (HUB)**
 
 - 💻 My field of study is **Data Sciene**
@@ -11,6 +13,10 @@
 - 📫 How to reach me **tnguyenanh2003@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+
+<h3 align="left">Latest blogs:</h3>
+
+- Machine Learning và cách nó hoạt động? - http://tuanhocdata.unaux.com/2023/10/15/k-nearest-neighbors-thuat-toan-phan-loai-don-gian-nhat/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
