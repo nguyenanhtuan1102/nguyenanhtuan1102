@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<h3 align="left">Latest blogs:</h3>
+<h3 align="left">Latest posts:</h3>
 
 - <a href="http://tuanhocdata.unaux.com/2023/10/15/machine-learning-va-cach-no-hoat-dong/">Machine Learning và cách nó hoạt động?</a>
 
