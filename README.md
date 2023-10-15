@@ -16,7 +16,7 @@
 
 <h3 align="left">Latest blogs:</h3>
 
-- Machine Learning và cách nó hoạt động? - http://tuanhocdata.unaux.com/2023/10/15/k-nearest-neighbors-thuat-toan-phan-loai-don-gian-nhat/
+- Machine Learning và cách nó hoạt động? http://tuanhocdata.unaux.com/2023/10/15/machine-learning-va-cach-no-hoat-dong/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
