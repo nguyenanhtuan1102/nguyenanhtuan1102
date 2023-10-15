@@ -2,9 +2,9 @@
 <h4 align="center">A passionate data scientist from Vietnam</h4>
 <img align="right" alt="Coding" width="375" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
-- 🔭 I’m currently studying in **Ho Chi Minh University of Banking (HUB)**
+- 🎓 I’m currently studying in **Ho Chi Minh University of Banking (HUB)**
 
-- 🌱 My field of study is **Data Sciene**
+- 💻 My field of study is **Data Sciene**
 
 - 💬 Ask me about **Data Science, Machine learning, Python**
 
