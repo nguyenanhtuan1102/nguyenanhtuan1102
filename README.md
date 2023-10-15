@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Data Science, Machine learning, Python**
 
-- 📫 How to reach me **tnguyenanh2003@gmail.com**
+- ✉ How to reach me **tnguyenanh2003@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
