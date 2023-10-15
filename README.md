@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently studying in **Ho Chi Minh University of Banking (HUB)**
 
-- 🌱 I’m currently learning **Data Sciene**
+- 🌱 My field of study is **Data Sciene**
 
-- 💬 Ask me about **Machine learning, Python**
+- 💬 Ask me about **Data Science, Machine learning, Python**
 
 - 📫 How to reach me **tnguyenanh2003@gmail.com**
 
