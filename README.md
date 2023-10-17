@@ -16,12 +16,12 @@
 
 <h3 align="left">Latest posts:</h3>
 
-- <a href="http://tuanhocdata.unaux.com/2023/10/15/machine-learning-va-cach-no-hoat-dong/">Machine Learning và cách nó hoạt động?</a>
+- <a href="http://tuanhocai.unaux.com/2023/10/15/machine-learning-va-cach-no-hoat-dong/">Machine Learning và cách nó hoạt động?</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tuanng1102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuanng1102" height="30" width="40" /></a>
-<a href="http://tuanhocdata.unaux.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Echo_link-blue_icon_slanted.svg/1024px-Echo_link-blue_icon_slanted.svg.png" alt="tuanng1102" height="30" width="30" /></a>
+<a href="http://tuanhocai.unaux.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Echo_link-blue_icon_slanted.svg/1024px-Echo_link-blue_icon_slanted.svg.png" alt="tuanng1102" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/tnguyenanh2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tnguyenanh2003" height="30" width="40" /></a>
 </p>
 
