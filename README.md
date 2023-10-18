@@ -12,7 +12,7 @@
 
 - ✉ How to reach me **tnguyenanh2003@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I am so funny =))**
 
 <h3 align="left">My posts:</h3>
 
