@@ -16,7 +16,7 @@
 
 <h3 align="left">My posts:</h3>
 
-- <a href="http://tuanhocai.unaux.com/2023/10/15/machine-learning-va-cach-no-hoat-dong/">Machine Learning và cách nó hoạt động?</a>
+- <a href="http://tuanhocai.unaux.com/machine-learning/tong-quan-ve-machine-learning/">Tổng quan về machine learning</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
