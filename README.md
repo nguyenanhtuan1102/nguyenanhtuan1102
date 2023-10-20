@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I am so funny =))**
 
-<h3 align="left">My posts:</h3>
+<h3 align="left">My blog posts:</h3>
 
 - <a href="http://tuanhocai.unaux.com/machine-learning/tong-quan-ve-machine-learning/">Tổng quan về machine learning</a>
 
