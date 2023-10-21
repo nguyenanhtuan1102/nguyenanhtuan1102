@@ -6,7 +6,7 @@
 
 - 🎓 I’m currently studying in **Ho Chi Minh University of Banking (HUB)**
 
-- 💻 My field of study is **Data Sciene**
+- 💻 My field of study is **AI and Data Sciene**
 
 - 💬 Ask me about **Data Science, Machine learning, Python**
 
