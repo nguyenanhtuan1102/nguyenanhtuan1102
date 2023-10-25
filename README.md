@@ -12,8 +12,6 @@
 
 - ✉ How to reach me **tnguyenanh2003@gmail.com**
 
-- ⚡ Fun fact **I am so funny =))**
-
 <h3 align="left">My blog posts:</h3>
 
 - <a href="http://tuanhocai.unaux.com/machine-learning/tong-quan-ve-machine-learning/">Tổng quan về machine learning</a>
