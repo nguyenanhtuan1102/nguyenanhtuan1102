@@ -12,8 +12,6 @@
 
 - ✉ How to reach me **tnguyenanh2003@gmail.com**
 
-<h3 align="left">My blog posts:</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tuanng1102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuanng1102" height="30" width="40" /></a>
