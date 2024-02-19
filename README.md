@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tuan</h1>
+<h1 align="center">Anh Tuan Nguyen</h1>
 <h3 align="center">A passionate data scientist from Vietnam</h3>
 <img align="right" alt="Coding" width="375" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
