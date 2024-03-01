@@ -4,13 +4,13 @@
 
 <h3 align="left">Introduce and contact: </h3>
 
-- 🎓 I’m currently studying in **Ho Chi Minh University of Banking (HUB)**
+🎓 I’m currently studying in **Ho Chi Minh University of Banking (HUB)**
 
-- 💻 My field of study is **AI and Data Science**
+💻 My field of study is **AI and Data Science**
 
-- 💬 Ask me about **Data Science, Machine learning, Python**
+💬 Ask me about **Data Science, Machine learning, Python**
 
-- ✉ How to reach me **tnguyenanh2003@gmail.com**
+✉ Reach me at **tnguyenanh2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
