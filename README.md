@@ -7,4 +7,4 @@ Review my <a href="https://tuanng1102.github.io/">portfolio</a> to gain a compre
 
 <h3 align="left">My stats</h3>
 
-![tuanng1102's Stats](https://github-readme-stats.vercel.app/api?username=tuanng1102&theme=dark&show_icons=true&hide_border=false&count_private=true)  ![tuanng1102's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuanng1102&theme=dark&hide_border=false)
+![tuanng1102's Stats](https://github-readme-stats.vercel.app/api?username=tuanng1102&theme=dark&show_icons=true&hide_border=false&count_private=true)
