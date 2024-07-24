@@ -8,3 +8,5 @@ Review my <a href="https://nguyenanhtuan1102.github.io/">web portfolio</a> or <a
 <h3 align="left">My stats</h3>
 
 ![nguyenanhtuan1102's Stats](https://github-readme-stats.vercel.app/api?username=nguyenanhtuan1102&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![nguyenanhtuan1102's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenanhtuan1102&theme=dark&show_icons=true&hide_border=true&layout=compact)
