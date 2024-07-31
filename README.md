@@ -9,9 +9,7 @@ Review my <a href="https://nguyenanhtuan1102.github.io/">web portfolio</a> or <a
 <h3 align="left">Contacts</h3>
 
 - Portfolio website: <a href="https://nguyenanhtuan1102.github.io/">nguyenanhtuan1102.github.io</a>
-
 - Linkedin: <a href="https://linkedin.com/in/tuanng1102/">linkedin.com/in/tuanng1102/</a>
-
 - Gmail: tnguyenanh2003@gmail.com
 
 <h3 align="left">My stats</h3>
