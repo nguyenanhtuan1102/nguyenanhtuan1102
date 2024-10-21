@@ -1,6 +1,6 @@
 <h3 align="left">A passionate Data Scientist from Vietnam</h3>
 
-Hi, I'm Tuan. I have a deep interest in data and machine learning systems. As a final-year Data Science student at the Ho Chi Minh University of Banking, I am actively seeking an internship position in the field of data science and data analysis. My objective is to apply my analytical skills and leverage my passion for extracting valuable insights from data to contribute to a dynamic and innovative organization.
+Hi, I'm Tuan. I have a deep interest in data and machine learning systems. As a final-year Data Science student at the Ho Chi Minh University of Banking, I am actively seeking an internship position in the field of Data Analyst or Data Scientist. My objective is to apply my analytical skills and leverage my passion for extracting valuable insights from data to contribute to a dynamic and innovative organization.
 
 <h3 align="left">My portfolio</h3>
 Review my <a href="https://nguyenanhtuan1102.github.io/">web portfolio</a> or <a href="https://github.com/nguyenanhtuan1102/portfolio">github portfolio</a> to gain a comprehensive understanding of my skills and expertise.
